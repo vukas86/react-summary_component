@@ -21,7 +21,6 @@ function AverageMass({ onAvrgMass }) {
   });
 
   const overallAvgMass = (totalMass / totalCount).toFixed(2);
-  console.log(overallAvgMass);
 
   return (
     <div className={styles.container}>
