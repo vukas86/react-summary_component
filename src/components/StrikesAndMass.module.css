@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.box {
+  border: 2px solid white;
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  margin: 40px;
+  border-radius: 3px;
+}
+
+.title {
+  padding: 10px;
+  border-bottom: 1px solid white;
+  background-color: white;
+}
+
+p {
+  background-color: rgb(12, 22, 79);
+  color: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 18vh; */
+  font-size: 32px;
+  height: 147px;
+}
